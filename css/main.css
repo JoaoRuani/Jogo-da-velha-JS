@@ -17,10 +17,10 @@ li.item-game{
     background: rgb(44, 20, 109);
     border: 2px solid black; 
 }
-.x{
+li.x{
     background: red;
 }
-.o{
+li.o{
     background: green;
 }
 .placar{

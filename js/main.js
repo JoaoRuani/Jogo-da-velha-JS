@@ -1,8 +1,8 @@
 tela = document.querySelector('.container');
-li = tela.querySelectorAll('li');
+li = tela.querySelectorAll('.item-game');
 
 contador = 0;
-
+console.log(li);
 li.forEach(function(event){
     //console.log(event.classList.value);
     event.addEventListener('click',function(){
