@@ -21,7 +21,7 @@ li.x{
     background: red;
 }
 li.o{
-    background: green;
+    background: yellow;
 }
 .placar{
     width: 100%;
@@ -45,4 +45,8 @@ li.o{
 }
 .placar-item:nth-child(2){
     margin-left: 150px;
+}
+#btn-reset{
+    padding: 10px;
+    font-size: 1.2em;
 }
